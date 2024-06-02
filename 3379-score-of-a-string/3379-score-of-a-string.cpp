@@ -5,7 +5,7 @@ public:
         std::cin.tie(nullptr);
         int sum=0;
         for(auto i=0;i<s.size()-1;i++){
-            sum+=abs((s[i]-'0')-(s[i+1]-'0'));
+            sum+=abs((s[i])-(s[i+1]));
         }
         return sum;
     }
