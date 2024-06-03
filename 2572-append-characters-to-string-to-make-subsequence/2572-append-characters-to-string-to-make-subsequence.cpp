@@ -3,7 +3,6 @@ public:
     int appendCharacters(string s, string t) {
         std::ios_base::sync_with_stdio(false);
         std::cin.tie(nullptr);
-        int m=0;
         
         int i=0 ,j=0;
         int n=s.size();
