@@ -10,12 +10,11 @@ public:
         while(n>0){
             if(s[i]==t[j]){
                 j++;
-                m++;
             }
             n--;
             i++;
         }
         
-        return (t.size()-m);
+        return (t.size()-j);
     }
 };
