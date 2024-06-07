@@ -2,6 +2,8 @@ class Solution {
 public:
     
     int minInsertions(string s) {
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(nullptr);
         int n = s.length();
         vector<vector<int>> dp(n + 1, vector<int>(n + 1,0));
         for (int i=1;i<=n;i++){
