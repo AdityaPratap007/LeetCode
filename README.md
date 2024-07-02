@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/AdityaPratap007/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1580-shuffle-the-array](https://github.com/AdityaPratap007/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/AdityaPratap007/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/AdityaPratap007/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/AdityaPratap007/LeetCode/tree/master/2058-concatenation-of-array) |
