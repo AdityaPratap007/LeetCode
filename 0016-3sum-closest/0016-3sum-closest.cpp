@@ -1,6 +1,7 @@
 class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
+        
         if(nums.size()<3) return 0;
         int n=nums.size();
         int closet =nums[0]+nums[1]+nums[2];
@@ -12,7 +13,7 @@ public:
             while(j<k){
                 int sum1 =nums[i]+nums[j]+nums[k];
                 if (sum1==target) return sum1;
-                if (abs(target-sum1)<abs(target-closet)){
+                if (std::abs(target-sum1)<std::abs(target-closet)){
                     closet=sum1;
                 }
                 if(sum1>target) k--;
