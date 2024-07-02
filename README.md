@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1791-richest-customer-wealth](https://github.com/AdityaPratap007/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2048-build-array-from-permutation](https://github.com/AdityaPratap007/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/AdityaPratap007/LeetCode/tree/master/2058-concatenation-of-array) |
 | [3194-find-words-containing-character](https://github.com/AdityaPratap007/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdityaPratap007/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/AdityaPratap007/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/AdityaPratap007/LeetCode/tree/master/2058-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
