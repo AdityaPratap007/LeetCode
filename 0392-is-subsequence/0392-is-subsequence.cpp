@@ -5,7 +5,7 @@ public:
         if (s.empty()) return true;
         
         // Edge case: if t is empty and s is not empty, s cannot be a subsequence of t
-        if (t.empty()) return false;
+        // if (t.empty()) return false;
         
         int i = 0, j = 0;
         while (j < t.size()) {
