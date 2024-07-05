@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AdityaPratap007/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/AdityaPratap007/LeetCode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AdityaPratap007/LeetCode/tree/master/0016-3sum-closest) |
+| [0036-valid-sudoku](https://github.com/AdityaPratap007/LeetCode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/AdityaPratap007/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -69,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaPratap007/LeetCode/tree/master/0036-valid-sudoku) |
 | [1791-richest-customer-wealth](https://github.com/AdityaPratap007/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AdityaPratap007/LeetCode/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/AdityaPratap007/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
