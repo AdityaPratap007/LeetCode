@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AdityaPratap007/LeetCode/tree/master/0189-rotate-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/AdityaPratap007/LeetCode/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AdityaPratap007/LeetCode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/AdityaPratap007/LeetCode/tree/master/0443-string-compression) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaPratap007/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/AdityaPratap007/LeetCode/tree/master/3194-find-words-containing-character) |
 ## String Matching
