@@ -42,7 +42,7 @@ public:
             chars[index++]=curr;
             if(count>1){
                 string str=to_string(count);
-                for(int i=0;i<str.length();i++){
+                for(int i=0;i<str.size();i++){
                     chars[index++]=str[i];
                 }
 
