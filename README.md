@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AdityaPratap007/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AdityaPratap007/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Dynamic Programming
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AdityaPratap007/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaPratap007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
