@@ -1,6 +1,8 @@
 class Solution {
 public:
     bool canPlaceFlowers(vector<int>& fd, int n) {
+        std::ios_base::sync_with_stdio(false);
+        std::cin.tie(nullptr);
         int i = 0;
         while (i < fd.size() && n > 0) {
             if (fd[i] == 1) {
