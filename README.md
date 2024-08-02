@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AdityaPratap007/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0605-can-place-flowers](https://github.com/AdityaPratap007/LeetCode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdityaPratap007/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/AdityaPratap007/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1720-crawler-log-folder](https://github.com/AdityaPratap007/LeetCode/tree/master/1720-crawler-log-folder) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AdityaPratap007/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
+| [0605-can-place-flowers](https://github.com/AdityaPratap007/LeetCode/tree/master/0605-can-place-flowers) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/AdityaPratap007/LeetCode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 ## Prefix Sum
 |  |
