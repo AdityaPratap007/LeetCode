@@ -8,6 +8,7 @@ public:
                     k=nums[i];
                     nums[i]=nums[j];
                     nums[j]=k;
+                    break;
                 }
             }
         }
