@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/AdityaPratap007/LeetCode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/AdityaPratap007/LeetCode/tree/master/0189-rotate-array) |
+| [0650-2-keys-keyboard](https://github.com/AdityaPratap007/LeetCode/tree/master/0650-2-keys-keyboard) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AdityaPratap007/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1642-water-bottles](https://github.com/AdityaPratap007/LeetCode/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaPratap007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AdityaPratap007/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0392-is-subsequence) |
+| [0650-2-keys-keyboard](https://github.com/AdityaPratap007/LeetCode/tree/master/0650-2-keys-keyboard) |
 ## Greedy
 |  |
 | ------- |
