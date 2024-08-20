@@ -1,6 +1,10 @@
 class Solution {  
 public:  
     bool lemonadeChange(vector<int>& bills) {  
+        ios_base::sync_with_stdio(false);
+        cin.tie(0);
+        cout.tie(0);
+
         int five = 0;  // Counter for $5 bills  
         int ten = 0;   // Counter for $10 bills  
         
