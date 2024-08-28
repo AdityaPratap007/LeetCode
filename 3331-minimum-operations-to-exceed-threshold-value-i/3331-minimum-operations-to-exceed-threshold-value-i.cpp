@@ -1,11 +1,15 @@
 class Solution {
 public:
     int minOperations(vector<int>& nums, int k) {
-        sort(nums.begin(),nums.end());
-        int i=0;
-       while (i < nums.size() && nums[i] <k){
-            i++;
+      int count = 0;
+        
+        // Iterate through the vector to count elements <= k
+        for (int num : nums) {
+            if (num <k) {
+                count++;
+            }
         }
-        return i;
+        
+        return count;
     }
 };
