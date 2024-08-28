@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/AdityaPratap007/LeetCode/tree/master/0605-can-place-flowers) |
+| [0724-find-pivot-index](https://github.com/AdityaPratap007/LeetCode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/AdityaPratap007/LeetCode/tree/master/0890-lemonade-change) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdityaPratap007/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdityaPratap007/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AdityaPratap007/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/AdityaPratap007/LeetCode/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/AdityaPratap007/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/AdityaPratap007/LeetCode/tree/master/1833-find-the-highest-altitude) |
 ## Sliding Window
