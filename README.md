@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/AdityaPratap007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/AdityaPratap007/LeetCode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/AdityaPratap007/LeetCode/tree/master/0890-lemonade-change) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AdityaPratap007/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AdityaPratap007/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdityaPratap007/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1580-shuffle-the-array](https://github.com/AdityaPratap007/LeetCode/tree/master/1580-shuffle-the-array) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AdityaPratap007/LeetCode/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/AdityaPratap007/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdityaPratap007/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdityaPratap007/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Binary Search
