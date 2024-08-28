@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2727-number-of-senior-citizens](https://github.com/AdityaPratap007/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AdityaPratap007/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/AdityaPratap007/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/AdityaPratap007/LeetCode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AdityaPratap007/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Sorting
 |  |
