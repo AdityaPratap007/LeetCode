@@ -1,6 +1,9 @@
 class Solution {
 public:
     vector<vector<int>> construct2DArray(vector<int>& original, int m, int n) {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
         if (m * n != original.size()) {
             return {};
         }
