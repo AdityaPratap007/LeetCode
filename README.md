@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AdityaPratap007/LeetCode/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/AdityaPratap007/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/AdityaPratap007/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/AdityaPratap007/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AdityaPratap007/LeetCode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/AdityaPratap007/LeetCode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/AdityaPratap007/LeetCode/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/AdityaPratap007/LeetCode/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/AdityaPratap007/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaPratap007/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -229,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratap007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/AdityaPratap007/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
