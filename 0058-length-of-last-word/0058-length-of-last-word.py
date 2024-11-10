@@ -5,7 +5,7 @@ class Solution:
         i=0
        
         while s[i]!=" ":
-            if i>=len(s)-1:
-                return i+1
             i+=1
+            if i>=len(s):
+                return i
         return i
