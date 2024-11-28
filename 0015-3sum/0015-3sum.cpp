@@ -1,34 +1,29 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& num) {
-        vector<vector<int>> res;
-        sort(num.begin(), num.end());
-
-        for (int i = 0; i < num.size(); i++) {
-            if (i > 0 && num[i] == num[i-1]) continue;
-
-            int target = -num[i];
-            int front = i + 1;
-            int back = num.size() - 1;
-
-            while (front < back) {
-                int sum = num[front] + num[back];
-
-                if (sum < target) {
-                    front++;
-                } else if (sum > target) {
-                    back--;
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        vector<vector<int>> ans;
+        std::sort(nums.begin(), nums.end());  
+        
+        for (int i = 0; i < nums.size() - 2; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;  
+            
+            int j = i + 1;
+            int k = nums.size() - 1;
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k];  
+                if (sum == 0) {
+                    ans.push_back({nums[i], nums[j], nums[k]});  
+                    ;
+                    while (j < k && nums[k] == nums[k - 1]) k--;
+                    j++;
+                    k--;
+                } else if (sum < 0) {
+                    j++;  
                 } else {
-                    res.push_back({num[i], num[front], num[back]});
-
-                    while (front < back && num[front] == num[front + 1]) front++;
-                    while (front < back && num[back] == num[back - 1]) back--;
-                    
-                    front++;
-                    back--;
+                    k--;  
                 }
             }
         }
-        return res;
+        return ans;
     }
 };
