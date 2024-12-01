@@ -7,7 +7,7 @@ class Solution:
         for r in range(len(s)):
             if s[r] not in rko:
                 rko.add(s[r])
-                maxy=max(maxy,abs(l-r)+1)
+                maxy=max(maxy,r-l+1)
             else:
                 while s[r] in rko:
                     rko.remove(s[l])
