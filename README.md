@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AdityaPratap007/LeetCode/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaPratap007/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AdityaPratap007/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/AdityaPratap007/LeetCode/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1894-merge-strings-alternately](https://github.com/AdityaPratap007/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/AdityaPratap007/LeetCode/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/AdityaPratap007/LeetCode/tree/master/0742-to-lower-case) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/AdityaPratap007/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AdityaPratap007/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/AdityaPratap007/LeetCode/tree/master/1720-crawler-log-folder) |
 | [1894-merge-strings-alternately](https://github.com/AdityaPratap007/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/AdityaPratap007/LeetCode/tree/master/2032-largest-odd-number-in-string) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/AdityaPratap007/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Array
 |  |
 | ------- |
