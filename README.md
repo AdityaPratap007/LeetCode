@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/AdityaPratap007/LeetCode/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/AdityaPratap007/LeetCode/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/AdityaPratap007/LeetCode/tree/master/0735-asteroid-collision) |
 | [0890-lemonade-change](https://github.com/AdityaPratap007/LeetCode/tree/master/0890-lemonade-change) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AdityaPratap007/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AdityaPratap007/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/AdityaPratap007/LeetCode/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/AdityaPratap007/LeetCode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/AdityaPratap007/LeetCode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/AdityaPratap007/LeetCode/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/AdityaPratap007/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0735-asteroid-collision](https://github.com/AdityaPratap007/LeetCode/tree/master/0735-asteroid-collision) |
 | [1720-crawler-log-folder](https://github.com/AdityaPratap007/LeetCode/tree/master/1720-crawler-log-folder) |
 ## Database
 |  |
