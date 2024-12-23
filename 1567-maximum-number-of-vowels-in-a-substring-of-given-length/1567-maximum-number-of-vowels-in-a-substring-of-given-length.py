@@ -10,7 +10,7 @@ class Solution:
         #     mx1=max(mx1,mx)
         #     mx=0
         # return mx1    //Brute force Method 
-        s1='aeiou'
+        s1=set('aeiou')
         mx=0
         mx1=0
         for i in range(k):
