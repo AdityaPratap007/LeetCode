@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AdityaPratap007/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AdityaPratap007/LeetCode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AdityaPratap007/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2470-removing-stars-from-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2727-number-of-senior-citizens](https://github.com/AdityaPratap007/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [3194-find-words-containing-character](https://github.com/AdityaPratap007/LeetCode/tree/master/3194-find-words-containing-character) |
 ## String Matching
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2298-count-integers-with-even-digit-sum](https://github.com/AdityaPratap007/LeetCode/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AdityaPratap007/LeetCode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaPratap007/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/AdityaPratap007/LeetCode/tree/master/2645-pass-the-pillow) |
 ## Matrix
 |  |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/AdityaPratap007/LeetCode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/AdityaPratap007/LeetCode/tree/master/0735-asteroid-collision) |
 | [1720-crawler-log-folder](https://github.com/AdityaPratap007/LeetCode/tree/master/1720-crawler-log-folder) |
+| [2470-removing-stars-from-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Database
 |  |
 | ------- |
