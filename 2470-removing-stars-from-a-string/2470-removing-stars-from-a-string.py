@@ -3,9 +3,9 @@ class Solution:
         st=[]
         ans=""
         for c in s:
-            if c.isalpha():
-                st.append(c)
-            elif c =='*':
+            if c =='*':
                 st.pop()
+            else :
+                st.append(c)
        
         return "".join(st)
