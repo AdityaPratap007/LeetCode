@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/AdityaPratap007/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaPratap007/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AdityaPratap007/LeetCode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AdityaPratap007/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/AdityaPratap007/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/AdityaPratap007/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3194-find-words-containing-character](https://github.com/AdityaPratap007/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/AdityaPratap007/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2645-pass-the-pillow](https://github.com/AdityaPratap007/LeetCode/tree/master/2645-pass-the-pillow) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AdityaPratap007/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Matrix
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AdityaPratap007/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/AdityaPratap007/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
