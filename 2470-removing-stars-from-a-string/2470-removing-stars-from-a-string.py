@@ -7,6 +7,5 @@ class Solution:
                 st.append(c)
             elif c =='*':
                 st.pop()
-        while(st):
-            ans+=st.pop()
-        return ans[::-1]
+       
+        return "".join(st)
