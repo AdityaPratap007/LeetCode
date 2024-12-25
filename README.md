@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AdityaPratap007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AdityaPratap007/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AdityaPratap007/LeetCode/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AdityaPratap007/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/AdityaPratap007/LeetCode/tree/master/0443-string-compression) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/AdityaPratap007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/AdityaPratap007/LeetCode/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AdityaPratap007/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AdityaPratap007/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AdityaPratap007/LeetCode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AdityaPratap007/LeetCode/tree/master/0443-string-compression) |
